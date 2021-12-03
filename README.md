@@ -1,0 +1,2 @@
+# Pallets
+Created with CodeSandbox
